@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 150px;
+}
+#div-head h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+#div-head h3{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+#btn-div button{
+    margin: 20px;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 15px;
+}
